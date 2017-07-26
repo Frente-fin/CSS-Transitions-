@@ -13,6 +13,9 @@
 .button:active {
   background: #a33830; }
 
+.home {
+  background: orange; }
+
 /* ================================= 
   Photo Overlay Transitions
 ==================================== */
